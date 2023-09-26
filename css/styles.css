@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+}
+header{
+    height: 200px;
+    color: aliceblue;
+    text-align: center;
+    
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+}
+section{
+    color: aliceblue;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+h2{
+    font-weight: 700;
+    text-align: center;
+    text-decoration: underline;
+}
+p{
+    text-align: center;
+}
+blockquote{
+    text-align: center;
+    font-style: italic;
+}
+
